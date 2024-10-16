@@ -33,6 +33,7 @@ CREATE TALBLE gatito (
         
 Tambien si indentamos con varios espacios:
 
-CREATE TALBLE gatito (
-   a INT
-);   
+    CREATE TALBLE gatito (
+       a INT
+    );   
+   
