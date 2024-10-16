@@ -24,10 +24,15 @@ Codigo:
 - Esto es `INSERT INTO` es formato inline.
 - Lo siguiente es un bloque de código:
 
-```
+``` sql
 CREATE TALBLE gatito (
    cabeza VARCAHR(255),
    patitas INT
  );
 ```
         
+Tambien si indentamos con varios espacios:
+
+CREATE TALBLE gatito (
+   a INT
+);   
