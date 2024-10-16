@@ -1,6 +1,8 @@
 # bases-prueba
 Esta es la descripción del proyecto
 
+![La mejor imagen de linux](cat.jpg)
+
 ## Sección
 Una lista:
 - Hola.
