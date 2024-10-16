@@ -15,4 +15,19 @@ Otra lista ordenada:
    - Importante
    - Recordar
 3. Tercer paso
+
+## Más cositas
+Enlace a [La web del Kernel](https://kernel.org).
+
+Codigo:
+
+- Esto es `INSERT INTO` es formato inline.
+- Lo siguiente es un bloque de código:
+
+```
+CREATE TALBLE gatito (
+   cabeza VARCAHR(255),
+   patitas INT
+ );
+```
         
